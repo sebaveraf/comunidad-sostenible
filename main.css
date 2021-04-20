@@ -1,0 +1,115 @@
+.logo-brand{
+    width: 120px;
+}
+
+#semilla{
+    background-image: url("img/semilla.jpg");
+    background-size: cover;
+    padding-top: 90px;
+    min-height: 421px;
+    color: #ffffff;
+}
+
+.content-center {
+    max-width: 800px;
+    margin: 0 auto 60px auto;
+    text-align: center;
+}
+
+#descripcion{
+
+    min-height: 210px;
+    padding-top: 80px;
+    color: #4d4d4d;
+    background: #f2f2f2;
+}
+
+#descripcion p{ 
+    text-align: center;
+    padding-left: 60px;
+    
+    
+}
+
+.mision-center {
+    max-width: 500px;
+    margin: 0 auto 60px auto;
+    text-align: center;
+    color: black;
+}
+
+#misionvision {
+    padding-top: 80px;
+}
+
+#imgizq {
+    background-image: url("img/metodo.JPG");
+    background-size: cover;
+    padding-top: 90px;
+    min-height: 421px;
+    color: #ffffff;
+    margin: 0;
+}
+
+#imgder {
+    background-image: url("img/fondo.jpg");
+    background-size: cover;
+    padding-top: 90px;
+    min-height: 421px;
+    color: #ffffff;
+    text-align: center;
+    
+}
+
+#metodologia {
+    padding: 70px;
+}
+
+.ptop {
+    padding-top: 70px;
+}
+
+.pbottom {
+    padding-bottom: 70px;
+}
+
+#proyectos{
+    background: #5f8039;
+    color:#ffffff;
+    padding-bottom: 70px;
+}
+
+#proyecto1 {
+    background-image: url("img/fotos/img-0352.JPG");
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+#proyecto2 {
+    background-image: url("img/fotos/img-9246.jpg");
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+#fila1{height: 300px;}
+#fila2{height: 300px;}
+
+.imgRedonda {
+    width:250px;
+    height:250px;
+    border-radius:125px;
+}
+#Blog {
+    background-image: url("img/fondo2.jpg");
+    background-size: cover;
+    padding-left: 80px;
+    padding-right: 40px;
+}
+
+#Footer {
+    color: #4d4d4d;
+}
